@@ -1,0 +1,29 @@
+ canvas{ border: 1px solid black;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	background-image: url("skyline.jpg");
+}
+
+table {
+	width:250px;
+	position: relative;
+	margin-right:auto;
+	margin-left:auto;
+	text-align: left;
+  }
+  
+/*panel {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}*/
+
